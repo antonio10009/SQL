@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Lógico Ejercicio 2 Zoo" id="54408316-1C40-FD8C-A207-3F85A2C288FA" version="3.5">
+<createdBy>Antonio</createdBy>
+<createdTime>2021-06-11 22:38:16 UTC</createdTime>
+<ownerDesignName>Modelo Lógico Ejercicio 2 Zoo</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>54408316-1C40-FD8C-A207-3F85A2C288FA</designId>
+</OSDM_Design>
